@@ -1,2 +1,2 @@
 # SQL
-SQL Portfoliio
+SQL Portfolio
