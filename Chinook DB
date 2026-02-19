@@ -1,7 +1,7 @@
 #This project uses SQL to explore and analyze the Chinook database by answering business-style questions about customers, invoices, employees, and sales performance through joins, filtering, and aggregation.
 
 
---Show Customers (their full names, customer ID, and country) who are not in the US. (Hint: != or <> can be used to say "is not equal to").
+--Show Customers (their full names, customer ID, and country) who are not in the US. 
 
 SELECT FirstName || ' ' || LastName AS CustomerName,
        CustomerId,
